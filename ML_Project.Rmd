@@ -1,5 +1,5 @@
 ---
-title: "JHSPH - Coursera Regression Models Project"
+title: "Coursera - JHSPH - Machine Learning Class Project"
 author: "prog.bouillet"
 date: "December 21, 2018"
 output: html_document
@@ -16,6 +16,8 @@ set.seed(1997)
 ## Introduction
 In this project we build a classification model to predict if weightlifting is being done with 
 good form based on relevant sensor data. The dataset is available [here](http://web.archive.org/web/20161224072740/http:/groupware.les.inf.puc-rio.br/har#literature).
+
+You can find the **GIT** repository with the ".rmd" file used to generate this html report [here](https://github.com/prog-bouillet/JHSPH--Machine-Learning).
 
 ### Data Cleaning
 The dataset has many NA variables and many variables with just plain empty data, so to clean it
